@@ -47,7 +47,7 @@
 
 <header>
     <h1>🚀 Welcome to KK FUNDA YOUTUBE CHANNEL NEW BATCH ON JAN 30th</h1>
-    <h3>Training | Development | Consulting</h3>
+    <h3>Praveen | Development | Consulting</h3>
 </header>
 
 <div class="container">
