@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository</name>
-	      <url>http://15.206.145.134:8081/repository/maven-snapshots/</url>
+	      <url>http://15.206.145.134:8081/repository/maven-public/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
