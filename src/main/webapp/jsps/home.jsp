@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to Pathange GROUP CHANNEL NEW BATCH ON APR 19th</h1>
+    <h1>🚀 Welcome to Pathange GROUP CHANNEL NEW BATCH ON APR 20th</h1>
     <h3>Praveen | Development | Consulting</h3>
 </header>
 
